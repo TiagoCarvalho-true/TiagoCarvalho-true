@@ -9,10 +9,9 @@
 
 <p align="center">
 💀atualmente trabalho como designer
-
 😌estou estudando REACT
-
 🫡tenho conhecimento de front-end
+</p>
 <br><br> 
 
 <div  align="center" style="margin-bottom:100px">
