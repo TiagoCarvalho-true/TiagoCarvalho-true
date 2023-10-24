@@ -1,4 +1,4 @@
-oi Atualmente estudo como designer
+Oi atualmente estudo como designer
 estou estudando REACT
 tenho conhecimento de front-end
 
