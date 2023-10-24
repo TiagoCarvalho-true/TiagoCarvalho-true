@@ -4,7 +4,7 @@
 </div>
 
 
-<img align="center" style="margin-bottom:100px" width=100% src=" " />
+<img align="center" style="margin-bottom:50px" width=80%  src="https://github.com/Talos346/cabescario.jpg/issues/2#issue-1960073584" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
