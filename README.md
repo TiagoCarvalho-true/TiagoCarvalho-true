@@ -1,10 +1,5 @@
 
-<div>
-<p>Olá eu sou <strong>Tiago Carvalho </strong></p>
-</div>
-
-
-<img align="center" style="margin-bottom:50px" width=80%  src="https://github.com/Talos346/cabescario.jpg/issues/2#issue-1960073584" />
+<img align="center" style="margin-bottom:50px" width=80%  src="https://user-images.githubusercontent.com/137335041/277806292-596ae425-64dd-4453-8fca-0a5aae55d9a7.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
