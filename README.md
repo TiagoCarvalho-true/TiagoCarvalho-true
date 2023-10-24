@@ -1,7 +1,7 @@
 
 
 <div>
-Olá eu sou Tiago Carvalho 
+<p>Olá eu sou <strong>Tiago Carvalho </strong></p>
 
 💀atualmente trabalho como designer
 
