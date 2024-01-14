@@ -3,6 +3,7 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
+Cursando a faculdade de Analise e desenvolvimento de sistemas.
 Olá me chamo Tiago Carvalho, sou estudante de programação.
 </p>
 <br><br> 
