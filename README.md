@@ -3,9 +3,7 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
-💀atualmente trabalho como designer
-😌estou estudando REACT
-🫡tenho conhecimento de front-end
+Olá me chamo Tiago Carvalho, sou estudante de programação.
 </p>
 <br><br> 
 
