@@ -2,10 +2,10 @@
 <img align="center" style="margin-bottom:50px" width=80%  src="https://user-images.githubusercontent.com/137335041/277806292-596ae425-64dd-4453-8fca-0a5aae55d9a7.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">
-Cursando a faculdade de Analise e desenvolvimento de sistemas.
-Olá me chamo Tiago Carvalho, sou estudante de programação.
-</p>
+<h1 align="center">
+Studying Systems Analysis and Development.
+Hello, my name is Tiago Carvalho, I'm a programming student.
+</h1>
 <br><br> 
 
 <div  align="center" style="margin-bottom:100px">
