@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:50px" width=80%  src="https://user-images.githubusercontent.com/137335041/277806292-596ae425-64dd-4453-8fca-0a5aae55d9a7.png" />
+<img align="center" style="margin-bottom:50px" width=80%  src="https://www.flaticon.com/br/icone-gratis/vetor_912516?term=vetor&related_id=912516" />
 &nbsp;&nbsp;&nbsp;
 
 <h1 align="center">
