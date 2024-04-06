@@ -8,6 +8,7 @@ Hello, my name is Tiago Carvalho, I'm a programming student.
 </h1>
 <br><br> 
 
+
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=talos346&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-talos346.vercel.app/api/top-langs/?username=talos346&show_icons=true&theme=radical&layout=compact" />
