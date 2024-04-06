@@ -64,4 +64,4 @@ Hello, my name is Tiago Carvalho, I'm a programming student.
   
  
  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3E2A3F0&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3E065F&height=120&section=footer"/>
