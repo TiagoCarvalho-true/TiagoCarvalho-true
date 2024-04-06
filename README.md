@@ -8,11 +8,11 @@ Studying Systems Analysis and Development.
 Hello, my name is Tiago Carvalho, I'm a programming student.
 </h1>
 <br><br> 
-![snake gif](https://github.com/TiagoCarvalho-true/game-snekkk/output/github-contribution-grid-snake.svg)
+
 
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=talos346&theme=radical&mode=weekly"/>
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=talos346&theme=black=weekly"/>
  </div>
  
  &nbsp;
