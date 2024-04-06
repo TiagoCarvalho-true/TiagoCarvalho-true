@@ -1,4 +1,5 @@
-https://github.com/TiagoCarvalho-true
+
+<img width=40% align="center" src="https://github-readme-stats-git-main-talos346.vercel.app/api/top-langs/?username=talos346&show_iconhttps://github.com/TiagoCarvalho-true
 
 <img align="center" style="margin-bottom:55px" width=80%  src="https://user-images.githubusercontent.com/137335041/277806292-596ae425-64dd-4453-8fca-0a5aae55d9a7.png" border-radius=15px />
 &nbsp;&nbsp;&nbsp;
@@ -11,8 +12,7 @@ Hello, my name is Tiago Carvalho, I'm a programming student.
 
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=talos346&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-talos346.vercel.app/api/top-langs/?username=talos346&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=talos346&theme=radical&mode=weekly" />s=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
