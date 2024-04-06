@@ -12,6 +12,10 @@ Hello, my name is Tiago Carvalho, I'm a programming student.
 
 
 <img align="center" style="margin-bottom:55px" width=80%   href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TiagoCarvalho-true&theme=tokyonight&hide_border=falso&card_border-radius=15px" alt="GitHub Streak" />
+
+<fieldset>
+ <img align="center" syle="margin-botton:30px" width=50% src"https://github.com/TiagoCarvalho-true/cabescario.jpg/assets/137335041/">
+</fieldset>
  
  &nbsp;
  &nbsp;
