@@ -17,7 +17,6 @@ Hello, my name is Tiago Carvalho, I'm a programming student.
  &nbsp;
 
 
-
 ## My Skills
 
 #### Main Stack:
