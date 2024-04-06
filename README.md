@@ -27,6 +27,7 @@ Hello, my name is Tiago Carvalho, I'm a programming student.
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-FF6400?style=for-the-badge&logo=Sql&logoColor=black)&nbsp;
+![NPM](https://img.shields.io/badge/NPM-F90673?style=for-the-badge&logo=npm&logoColor=black)&nbsp;
 
 
 
