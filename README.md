@@ -1,6 +1,7 @@
 
 
 <img align="center" style="margin-bottom:55px" width=80%  src="https://user-images.githubusercontent.com/137335041/277806292-596ae425-64dd-4453-8fca-0a5aae55d9a7.png" border-radius=10px />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TiagoCarvalho-true&theme=tokyonight&hide_border=falso&card_width=485)](https://git.io/streak-stats)
 &nbsp;&nbsp;&nbsp;
 
 <h1 align="center">
