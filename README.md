@@ -11,7 +11,7 @@ Hello, my name is Tiago Carvalho, I'm a programming student.
 
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=talos346&theme=radical&mode=weekly" />s=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=talos346&theme=radical&mode=weekly"/>
  </div>
  
  &nbsp;
