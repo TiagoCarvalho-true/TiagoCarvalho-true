@@ -9,8 +9,6 @@ Hello, my name is Tiago Carvalho, I'm a programming student.
 <br><br> 
 
 
-
-
 <img align="center" style="margin-bottom:55px" width=80%   href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TiagoCarvalho-true&theme=tokyonight&hide_border=falso&card_border-radius=15px" alt="GitHub Streak" />
 
 
@@ -19,6 +17,14 @@ Hello, my name is Tiago Carvalho, I'm a programming student.
  
  &nbsp;
  &nbsp;
+
+
+
+
+
+
+
+
 
 
 ## My Skills
