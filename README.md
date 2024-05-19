@@ -54,7 +54,7 @@ Hello, my name is Tiago Carvalho, I'm a programming student.
 
 
 #### Studying in this moment:
-
+![java](https://img.shields.io/badge/java-f567856?style=for-the-badge&logo=java&logoColor=61DAFB)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 
