@@ -38,24 +38,14 @@ Hello, my name is Tiago Carvalho, I'm a programming student.
 ![SQL](https://img.shields.io/badge/SQL-FF6400?style=for-the-badge&logo=Sql&logoColor=black)&nbsp;
 ![NPM](https://img.shields.io/badge/NPM-F90673?style=for-the-badge&logo=npm&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
-
-
-
-
-
-
-
-
-
-
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 
 
 
 #### Studying in this moment:
-![java](https://img.shields.io/badge/java-f567856?style=for-the-badge&logo=java&logoColor=61DAFB)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+
+![C#](https://img.shields.io/badge/C#-20232A?style=for-the-badge&logo=c#&logoColor=61DAFB)&nbsp;
 
 
 
