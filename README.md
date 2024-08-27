@@ -45,7 +45,7 @@ Hello, my name is Tiago Carvalho, I'm a programming student.
 
 #### Studying in this moment:
 
-![Banco de dados ](https://img.shields.io/badge/-20232A?style=for-the-badge&logo=&logoColor=61DAFB)&nbsp;
+![Banco de dados ](https://img.shields.io/badge/ Banco de Dados-20232A?style=for-the-badge&logo=&logoColor=61DAFB)&nbsp;
 
 
 
