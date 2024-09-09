@@ -46,13 +46,13 @@ Hello, my name is Tiago Carvalho, I'm a programming student.
 
 #### Studying in this moment:
 
-<li type="none">Banco de Dados</li>
-<li type="none">FullStack bootcamp pela Dio</li>
+<li padding="15px" type="none">Banco de Dados</li>
+<li padding="15px" type="none">FullStack bootcamp pela Dio</li>
 
 
 ### Working in this moment:
 
-<li type="none">Projeto de Extensão curricularizada da Faculdade</li>
+<li padding="15px" type="none">Projeto de Extensão curricularizada da Faculdade</li>
 
 
 #### Workstation Tools:
