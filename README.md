@@ -47,6 +47,7 @@ Hello, my name is Tiago Carvalho, I'm a programming student.
 #### Studying in this moment:
 
 <li padding="15px" type="none">Banco de Dados</li>
+&nbsp;
 <li padding="15px" type="none">FullStack bootcamp pela Dio</li>
 
 
