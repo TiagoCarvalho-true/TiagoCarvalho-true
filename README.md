@@ -20,12 +20,6 @@ Hello, my name is Tiago Carvalho, I'm a programming student.
 
 
 
-
-
-
-
-
-
 ## My Skills
 
  Main Stack:
@@ -43,6 +37,7 @@ Hello, my name is Tiago Carvalho, I'm a programming student.
 &nbsp;
 &nbsp;
 <h1></h1>
+
 ## Studying in this moment:
 
 <li padding="15px" type="none">Banco de Dados</li>
@@ -60,7 +55,7 @@ Hello, my name is Tiago Carvalho, I'm a programming student.
 
 &nbsp;
 &nbsp;
-<h1></h1>
+
 
 ## Workstation Tools:
 
