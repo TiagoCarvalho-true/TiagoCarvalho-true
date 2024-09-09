@@ -51,6 +51,8 @@ Hello, my name is Tiago Carvalho, I'm a programming student.
 <li padding="15px" type="none">FullStack bootcamp pela Dio</li>
 
 
+&nbsp;
+
 ### Working in this moment:
 
 <li padding="15px" type="none">Projeto de Extensão curricularizada da Faculdade</li>
