@@ -13,7 +13,7 @@ Hello, my name is Tiago Carvalho, I'm a programming student.
 ![TiagoCarvalho-true's Stats](https://github-readme-stats.vercel.app/api?username=TiagoCarvalho-true&theme=gotham&show_icons=true&hide_border=false&count_private=true)
 
 
- <img align="left" syle="margin-botton:15px" width=400px src="https://media3.giphy.com/media/KEATEV6uaagupaQEXW/giphy.gif?cid=6c09b952hyp70zex1tz5lrvter9v14ddbsnrdxkq4yqphb9m&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+ <img align="left" syle="margin-botton:15px" width=100% src="https://media3.giphy.com/media/KEATEV6uaagupaQEXW/giphy.gif?cid=6c09b952hyp70zex1tz5lrvter9v14ddbsnrdxkq4yqphb9m&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 
  
  &nbsp;
