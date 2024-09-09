@@ -13,8 +13,6 @@ Hello, my name is Tiago Carvalho, I'm a programming student.
 ![TiagoCarvalho-true's Stats](https://github-readme-stats.vercel.app/api?username=TiagoCarvalho-true&theme=gotham&show_icons=true&hide_border=false&count_private=true)
 
 
- <img align="left" syle="margin-botton:15px" width=100% src="https://media3.giphy.com/media/KEATEV6uaagupaQEXW/giphy.gif?cid=6c09b952hyp70zex1tz5lrvter9v14ddbsnrdxkq4yqphb9m&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
-
  
  &nbsp;
  &nbsp;
@@ -42,8 +40,9 @@ Hello, my name is Tiago Carvalho, I'm a programming student.
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 
-
-
+&nbsp;
+&nbsp;
+<h1></h1>
 #### Studying in this moment:
 
 <li padding="15px" type="none">Banco de Dados</li>
@@ -53,12 +52,15 @@ Hello, my name is Tiago Carvalho, I'm a programming student.
 
 &nbsp;
 &nbsp;
+<h1></h1>
 
 ### Working in this moment:
 
 <li padding="15px" type="none">Projeto de Extensão curricularizada da Faculdade</li>
 
-
+&nbsp;
+&nbsp;
+<h1></h1>
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
@@ -80,6 +82,8 @@ Hello, my name is Tiago Carvalho, I'm a programming student.
  
 
   
- 
+
+
+ <img height="200px" align="center" syle="margin-botton:15px" width=100% src="https://media3.giphy.com/media/KEATEV6uaagupaQEXW/giphy.gif?cid=6c09b952hyp70zex1tz5lrvter9v14ddbsnrdxkq4yqphb9m&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"> 
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3E065F&height=120&section=footer"/>
