@@ -36,7 +36,7 @@ Hello, my name is Tiago Carvalho, I'm a programming student.
 
 &nbsp;
 &nbsp;
-<h1></h1>
+
 
 ## Studying in this moment:
 
@@ -47,7 +47,7 @@ Hello, my name is Tiago Carvalho, I'm a programming student.
 
 &nbsp;
 &nbsp;
-<h1></h1>
+
 
 ## Working in this moment:
 
