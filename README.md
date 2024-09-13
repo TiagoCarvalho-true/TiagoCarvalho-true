@@ -8,10 +8,10 @@ Hello, my name is Tiago Carvalho, I'm a programming student.
 </h1>
 <br><br> 
 
-
+<div widt="500px" padding="15px">
 ![TiagoCarvalho-true's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TiagoCarvalho-true&theme=gotham&hide_border=false)
 ![TiagoCarvalho-true's Stats](https://github-readme-stats.vercel.app/api?username=TiagoCarvalho-true&theme=gotham&show_icons=true&hide_border=false&count_private=true)
-
+</div>
 
  
  &nbsp;
