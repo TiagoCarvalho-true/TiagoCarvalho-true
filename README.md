@@ -65,8 +65,7 @@ Hello, my name is Tiago Carvalho, I'm a programming student.
 
 &nbsp;
 &nbsp;
-![TiagoCarvalho-true's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoCarvalho-true&theme=gotham&show_icons=true&hide_border=false&layout=compact)
- 
+![TiagoCarvalho-true's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoCarvalho-true&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ## Contacts:
 
 <div> 
