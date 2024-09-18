@@ -1,4 +1,8 @@
-<img src="https://raw.githubusercontent.com/TiagoCarvalho-true/TiagoCarvalho-true/.github/workflows/snake.yml" alt="Snake animation" />
+###
+
+<img src="https://raw.githubusercontent.com/TiagoCarvalho-true/TiagoCarvalho-true/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 <h1 align="center">
@@ -8,6 +12,7 @@ Hello, my name is Tiago Carvalho, I'm a programming student.
 <br><br> 
 
 ![TiagoCarvalho-true's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TiagoCarvalho-true&theme=jolly&hide_border=true)
+![TiagoCarvalho-true's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoCarvalho-true&theme=jolly&show_icons=true&hide_border=true&layout=compact)
  
  &nbsp;
  &nbsp;
@@ -68,7 +73,7 @@ Hello, my name is Tiago Carvalho, I'm a programming student.
 
 &nbsp;
 &nbsp;
-![TiagoCarvalho-true's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoCarvalho-true&theme=jolly&show_icons=true&hide_border=true&layout=compact)
+
 ## Contacts:
 
 <div> 
@@ -93,7 +98,5 @@ Hello, my name is Tiago Carvalho, I'm a programming student.
  <img height="200px" align="center" syle="margin-botton:15px" width=100% src="https://media3.giphy.com/media/KEATEV6uaagupaQEXW/giphy.gif?cid=6c09b952hyp70zex1tz5lrvter9v14ddbsnrdxkq4yqphb9m&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"> 
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3E065F&height=120&section=footer"/>
-
-
 
 
