@@ -7,9 +7,9 @@ Studying Systems Analysis and Development.
 Hello, my name is Tiago Carvalho, I'm a programming student.
 </h1>
 <br><br> 
-
+<div align="center">
 ![TiagoCarvalho-true's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TiagoCarvalho-true&theme=jolly&hide_border=true)
- 
+ </div>
  &nbsp;
  &nbsp;
 
