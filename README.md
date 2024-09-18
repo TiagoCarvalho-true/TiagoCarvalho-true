@@ -1,7 +1,6 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 
-
 <h1 align="center">
 Studying Systems Analysis and Development.
 Hello, my name is Tiago Carvalho, I'm a programming student.
