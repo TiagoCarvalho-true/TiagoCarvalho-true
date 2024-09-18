@@ -1,6 +1,6 @@
 ###
 
-<img src="https://raw.githubusercontent.com/TiagoCarvalho-true/TiagoCarvalho-true/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
