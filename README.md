@@ -66,8 +66,8 @@ Hello, my name is Tiago Carvalho, I'm a programming student.
 
 ## Workstation Tools:
 
-![Notepad++](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Jira](https://img.shields.io/badge/Illustrator-orange?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Notepad++](https://img.shields.io/badge/NotePad++-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Jira](https://img.shields.io/badge/Jira-orange?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Photoshop](https://img.shields.io/badge/photoshop-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![ilustrator](https://img.shields.io/badge/Illustrator-orange?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
