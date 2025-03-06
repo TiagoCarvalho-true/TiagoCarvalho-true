@@ -14,7 +14,8 @@ Hello, my name is Tiago Carvalho, I'm a programming student.
 ![TiagoCarvalho-true's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TiagoCarvalho-true&theme=jolly&hide_border=true)
 
 <br><br>
-![TiagoCarvalho-true's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoCarvalho-true&theme=jolly&show_icons=true&hide_border=true&layout=compact)
+
+![TiagoCarvalho-true's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoCarvalho-true&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
  <br><br>
  ![TiagoCarvalho-true's Stats](https://github-readme-stats.vercel.app/api?username=TiagoCarvalho-true&theme=omni&show_icons=true&hide_border=true&count_private=true)
